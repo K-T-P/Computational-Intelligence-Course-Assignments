@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}سوال اول}{2}{}%
+\contentsline {subsection}{\numberline {1.1}\lr {a}}{2}{}%
+\contentsline {subsection}{\numberline {1.2}\lr {b}}{2}{}%
+\contentsline {section}{\numberline {2}سوال ۲}{3}{}%
+\contentsline {section}{\numberline {3}سوال ۳}{4}{}%
+\contentsline {section}{\numberline {4}سوال ۴}{5}{}%
